@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IAs generativas na literatura realista
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uso de tecnologias de inteligência artificial generativa para reproduzir um trecho de uma narrativa típica de um romance realista do escritor russo Fiódor Dostoiévski. Para a geração de texto foi utilizado o ChatGPT, embora o Gemini tenha sido experimento primeiramente, porém foi descartado devido à capacidade melhor do ChatGPT gerar o texto mais coerente com a solicitação no prompt e o conhecimento de domínio com análise de um humano. Para geração da imagem, foi utilizada a Leonardo.AI.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://chat.openai.com/auth/login)
+
+[Leonardo.AI](https://leonardo.ai/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Foram testadas duas IAs generativas para geração de texto, o Gemini criou texto de modo muito direto como se fosse o narrador personagem, enquanto o ChatGPT criou uma narritiva mais indireta, típica do escritor, a escolha do ChatGPT foi mediante examinação dessa coerência com a realidade. Já a imagem foi criada mediante solicitação de uma imagem que retratasse uma cidade do século XIX com teor melancólico, típico dos romances dostoievskvianos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Como resultado, o ChatGPT criou um trecho com um personagem com nome peculiar para o teor da narrativa e com uma perspectiva existencial típica dos personagens do escritor referido, além de dar margem para um fluxo de narrativa onde o personagem busca incessantemente significado em um universo indiferente, com palavras da própria IA. Como resultado de imagem, o Leonardo.AI gerou uma imagem típica de uma cidade em pleno período de inverno com um teor melancólico e um olhar nublado, o que dar a perspectiva de falta de sentido, peculiar dos romances dostoievskianos.
